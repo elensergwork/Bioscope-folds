@@ -3,7 +3,7 @@ The exact text numbers used for 10-fold cross validation in Scope negation detec
 
 You can download the bioscope dataset at  http://rgai.inf.u-szeged.hu/index.php?lang=en&page=bioscope 
 
-Text numbers correspond to ids of the original dataset file xml mark-up.
+Text numbers correspond to ids of the DocID in the xml mark-up.
 
 ```
 <Document type="Biological_abstract"><DocID type="PMID"> *1984449* </DocID><DocumentPart type="Title">
